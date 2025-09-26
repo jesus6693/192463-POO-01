@@ -28,3 +28,8 @@ Write a short paragraph (5–8 sentences) in English:
 - **UML implementation in Java (attributes, constructors, methods):** 50%  
 - **Objects created and tested in `Main`:** 20%  
 - **Reflection** 30%  
+
+
+reflxion 
+
+para este primer parcial aprendi java orientada a objetos tambien aprendi a manejar el getter y el setter, aprendi a manejar los metodos y atributos cada clase se aprendi y se diligencio cada una de las enseñansas ofrecidas. 
